@@ -1,5 +1,5 @@
 var userFormEl = document.querySelector("#user-form");
-var nameInputEl = document.querySelector("#userName");
+var nameInputEl = document.querySelector("#username");
 var repoContainerEl = document.querySelector("#repos-container");
 var repoSearchTerm = document.querySelector("#repo-search-term");
 
